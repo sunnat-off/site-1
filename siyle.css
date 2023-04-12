@@ -1,0 +1,15 @@
+/* .box-1{
+   width: 1300px;
+   height: 500px;
+   border: 2px solid #000000;
+   background-image: url("./img/download.jpg");
+   background-repeat: no-repeat;
+   background-size: 1300px 500px;
+
+} */
+
+.red{
+   width: 1000px;
+   height: 1000px;
+   background-image: linear-gradient(to left, rgb(0, 0, 0),rgb(159, 123, 56),rgb(51, 255, 0),rgb(255, 102, 0) );
+}
